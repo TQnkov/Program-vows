@@ -11,5 +11,5 @@ def vow_search():
             i += 1
             vows_in_word.append(let)
     return print(i, vows_in_word)
-    
+
 vow_search()
